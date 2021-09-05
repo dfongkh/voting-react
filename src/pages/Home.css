@@ -1,0 +1,15 @@
+.homeWrapper {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeTitle {
+  margin-bottom: 20px;
+}
+
+.linkBtn {
+  margin-right: 20px;
+}

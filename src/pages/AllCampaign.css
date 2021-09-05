@@ -1,0 +1,27 @@
+.title {
+  margin-bottom: 10px;
+}
+
+.campaignOverview {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 1px solid;
+  margin-bottom: 10px;
+}
+
+.campaignOverview:hover {
+  background-color: grey;
+}
+
+.wording {
+  padding: 10px;
+}
+
+.question {
+  width: 300px;
+}
+
+.date {
+  font-size: 14px;
+}
